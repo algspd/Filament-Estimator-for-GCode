@@ -1,6 +1,5 @@
-PHP Filament Length/Weight/Volume Estimator for 4d G-Code
+Filament Estimator for G-Code
 ===============
-****  
 
 PHP Filament Length/Weight/Volume Estimator for 4d G-Code  by algspd , published Dec 2, 2012Description
 --------
@@ -24,22 +23,10 @@ Use this code however you want. If you find a bug, please tell me.<br />
 <br />
 I cannot use a "more free" license here but please read the code header.
 
-Files
---------
-[![Image](img/Gears_preview_tinycard.jpg)](filament_length.php)
- [ filament_length.php](filament_length.php)  
-
-
-
-Tags
---------
-beer , code , filament , gcode , php  
-
-  
 
 License
 --------
-PHP Filament Length/Weight/Volume Estimator for 4d G-Code by algspd is licensed under the BSD License license.  
+PHP Filament Length/Weight/Volume Estimator for 4d G-Code by algspd is licensed under "THE BEER-WARE LICENSE" (Revision 42)
 
 
 
